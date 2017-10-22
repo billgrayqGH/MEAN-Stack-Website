@@ -1,0 +1,30 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billgrayqGH/MEAN-Stack-Website.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "Appication"
+  ],
+  "author": "Bill Q",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billgrayqGH/MEAN-Stack-Website/issues"
+  },
+  "homepage": "https://github.com/billgrayqGH/MEAN-Stack-Website#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.4"
+  }
+}
